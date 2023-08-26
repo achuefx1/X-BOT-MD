@@ -18,10 +18,10 @@ global.version = "1.0.0"
 // Required variables
 //---------------------------------
 global.prefix = "." // use "" for removing prefix
-global.ownername = "ᴛᴇᴀᴍ ᴇx-ʙᴏᴛ-ᴢ" // Bot Owner name
-global.botname = "x-ʙᴏᴛ-ᴍᴅ" //bot name
+global.ownername = "ACHU EFX" // Bot Owner name
+global.botname = "Achooty 💗😫" //bot name
 global.thumb = "https://i.imgur.com/IIHEyLI.jpg" // bot image overall
-global.ownernumber = ["917012984396","917594898804","919961857267"] //SODO / OWNER NUMBER
+global.ownernumber = ["917012984396","917594898804","919447872999"] //SODO / OWNER NUMBER
 global.caption = "_*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ x-ʙᴏᴛ-ᴍᴅ*_" // Caption 
 //---------------------------------
 // Owner Mention Audio
